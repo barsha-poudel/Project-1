@@ -1,0 +1,47 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    font-family: inter, sans-serif;
+    background-color: #282D35;
+    color:aliceblue;
+ 
+}
+
+.nav{
+    height: 100px;
+    background-color: #21222A;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+}
+.text{
+    margin-right: 150px;
+    font-size: x-large;
+}
+.for-list{
+    padding-left: 45px;
+    font-size: large;
+    padding-top: 30px;
+    
+}
+.for-list li{
+    padding-block:10px;
+
+}
+.for-list li::marker{
+    font-size: 2rem;
+    color: #61dafb;
+}
+.logo-text{
+    color: #61dafb;
+    margin-right: auto;
+    font-size:xx-large;
+
+   
+}
+.main-content{
+padding: 57px 110px;
+    
+}
