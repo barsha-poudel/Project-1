@@ -42,6 +42,10 @@ body{
    
 }
 .main-content{
-padding: 57px 110px;
+    padding: 57px 110px;
+    background-image: url(./images/react-logo.jpg);
+    background-position:right 75% ;
+    background-repeat: no-repeat;
+    background-color:#1f282d;
     
 }
